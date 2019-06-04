@@ -1084,7 +1084,7 @@ body {
   .home-image-front-style {
     margin-left: initial;
     height: 100%;
-    margin-top: -51vh;
+    margin-top: -34vh;
   }
   .home-image-front-style > img {
     width: 450px;
@@ -1099,7 +1099,7 @@ body {
     top: initial;
     left: initial;
     width: initial;
-    margin-top: 12vh;
+    margin-top: initial;
   }
   .home-card-style {
     top: 50%;
@@ -1327,7 +1327,7 @@ body {
     margin-top: initial;
     height: 356px;
     left: 9px;
-    margin-top: 8.2vh;
+    margin-top: 62px;
   }
   .about-image-style {
     box-shadow: initial;
@@ -1387,7 +1387,10 @@ body {
   .about-image-front-style {
     margin-left: 6px;
     height: initial;
-    margin-top: -42vh;
+    margin-top: -37vh;
+  }
+  .about-image-back-style {
+    margin-top: -10px;
   }
   .about-image-front-style > img {
     width: 236px;
